@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Supply-Board-rescue")(type "KiCad")(uri "${KIPRJMOD}/Supply-Board-rescue.kicad_sym")(options "")(descr ""))
+)
